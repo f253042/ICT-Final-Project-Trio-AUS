@@ -1,5 +1,5 @@
 # ICT-Final-Project-Trio-AUS
 Members:
-M.Sami,
+Muhammad Sami,
 Umar Farooq,
 Ameer Hamza
